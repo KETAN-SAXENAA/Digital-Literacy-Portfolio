@@ -1,1 +1,18 @@
 
+Task 5: Cybercrime Awareness
+
+In this task, I studied about phishing attacks.
+
+Phishing is a type of cybercrime where attackers try to trick people into giving their personal information such as passwords or bank details through fake emails or messages.
+
+Case Study:
+A student received an email that looked like it was from a bank. The email asked for login details. After entering the details, the student lost money from the account.
+
+Prevention:
+- Always check the sender’s email address
+- Do not click on unknown links
+- Use strong passwords
+- Enable two-factor authentication
+
+Reflection:
+This task helped me understand how cybercrimes happen and how we can protect ourselves from such attacks.
