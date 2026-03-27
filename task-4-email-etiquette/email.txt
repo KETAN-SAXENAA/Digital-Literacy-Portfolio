@@ -1,0 +1,23 @@
+Task 4: Email Etiquette
+
+Subject: Submission of Digital Literacy Project
+
+Dear Sir/Ma’am,
+
+I hope you are doing well.
+
+I am writing this email to submit my Digital Literacy project as per the instructions. I have uploaded all the required files in my GitHub repository.
+
+Please let me know if any changes or corrections are needed.
+
+Thank you.
+
+Regards,
+Ketan Saxena
+
+Checklist:
+- Clear subject line
+- Proper greeting
+- Simple and polite language
+- No spelling mistakes
+- Proper closing
